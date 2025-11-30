@@ -1,5 +1,7 @@
 # Artificial-Neural-Networks-Course-Midterm
 I developed an artificial neural network-based classifier on a dataset loaded from scikit-learn, applied data preprocessing techniques, perform hyperparameter optimization, and interpret models using XAI (Explainable AI) methods.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a1HWqaP6xx61wlQdCVXqCZmI36eMC2P-?usp=sharing)
 __________________________________
 
 # Yapay Sinir Ağları Dersi
